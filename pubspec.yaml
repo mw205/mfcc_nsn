@@ -1,5 +1,5 @@
 name: mcfcc_nsn
-description: A starting point for Dart libraries or applications.
+description: A pure Dart library to extract MFCC (Mel-Frequency Cepstral Coefficients) audio features. Supports static, instance-based, and real-time stream processing.
 version: 1.0.0
 repository: https://github.com/mw205/mfcc_nsn
 
